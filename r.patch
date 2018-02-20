@@ -1,0 +1,10 @@
+--- file.txt	2018-02-13 15:53:17.391675800 +0530
++++ rachit.cpp	2018-02-07 12:42:03.428680700 +0530
+@@ -1 +1,6 @@
+-today we learn the git add help command and selected two commands like fetch and --refresh
++#include<iostream>
++using namespace std;
++int main()
++{cout<<"hello";
++}
++
